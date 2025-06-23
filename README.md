@@ -26,3 +26,9 @@ Whether you're deep into a post-apocalyptic survival world, leading a D&D campai
 Just download the main app ([Roleplay Trackers by Nagaprox](https://github.com/Nagaprox/Roleplay-Tracker-by-Nagaprox/blob/main/Roleplay%20Tracker%20by%20Nagaprox.exe))
 Built using Python, Tkinter, and ttkbootstrap for modern looks and performance.
 
+----------------------------------------------
+
+Update v1.1 
+- Added more inventory features including Categories and Quantities
+- Added countdown timer features in injury tab
+- Added cause and treatment for injureis
